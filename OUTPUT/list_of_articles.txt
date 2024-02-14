@@ -1,0 +1,48 @@
+Title: Multimodal Conversational Agent for Older Adults' Behavioral Change, Link: https://dl.acm.org//doi/10.1145/3395035.3425315
+Title: Let's Talk It Out: A Chatbot for Effective Study Habit Behavioral Change, Link: https://dl.acm.org//doi/10.1145/3449171
+Title: Attention-Guidance Method Based on Conforming Behavior of Multiple Virtual Agents for Pedestrians, Link: https://dl.acm.org//doi/10.1145/3472306.3478346
+Title: Motivating Health Behavior Change with Humorous Virtual Agents, Link: https://dl.acm.org//doi/10.1145/3383652.3423915
+Title: Empathy Is All You Need: How a Conversational Agent Should Respond to Verbal Abuse, Link: https://dl.acm.org//doi/10.1145/3313831.3376461
+Title: Trusting Virtual Agents: The Effect of Personality, Link: https://dl.acm.org//doi/10.1145/3232077
+Title: Plug and Play Conversations: The Micro-Conversation Scheme for Modular Development of Hybrid Conversational Agent, Link: https://dl.acm.org//doi/10.1145/3584931.3606998
+Title: Argumentation is More Important than Appearance for Designing Culturally Tailored Virtual Agents, Link: https://dl.acm.org//doi/10.5555/3398761.3399034
+Title: Exploring the Use of a Voice-based Conversational Agent to Empower Adolescents with Autism Spectrum Disorder, Link: https://dl.acm.org//doi/10.1145/3411764.3445116
+Title: Human-in-the-Loop Interaction for continuously Improving Generative Model in Conversational Agent for Behavioral Intervention, Link: https://dl.acm.org//doi/10.1145/3581754.3584142
+Title: Explaining reasoning algorithms with persuasiveness: a case study for a behavioural change system, Link: https://dl.acm.org//doi/10.1145/3341105.3373910
+Title: Shared Planning for building Human-agent Therapeutic Alliance, Link: https://dl.acm.org//doi/10.1145/3267851.3267873
+Title: "Give Me the Support I Want!": The Effect of Matching an Embodied Conversational Agent's Social Support to Users' Social Support Needs in Fostering Positive User-Agent Interaction, Link: https://dl.acm.org//doi/10.1145/3284432.3284462
+Title: Addressing Sexist Attitudes on a College Campus through Virtual Role-Play with Digital Doppelgangers, Link: https://dl.acm.org//doi/10.1145/3267851.3267913
+Title: Visual Similarity for Socially Interactive Agents that Support Self-Awareness, Link: https://dl.acm.org//doi/10.1145/3570945.3607329
+Title: Accomodating User Expressivity while Maintaining Safety for a Virtual Alcohol Misuse Counselor, Link: https://dl.acm.org//doi/10.1145/3570945.3607361
+Title: User Gaze Behavior while Discussing Substance Use with a Virtual Agent, Link: https://dl.acm.org//doi/10.1145/3267851.3267906
+Title: Is Two Better than One?: Effects of Multiple Agents on User Persuasion, Link: https://dl.acm.org//doi/10.1145/3267851.3267890
+Title: Exploring the Effects of Incorporating Human Experts to Deliver Journaling Guidance through a Chatbot, Link: https://dl.acm.org//doi/10.1145/3449196
+Title: Designing a Mobile Social and Vocational Reintegration Assistant for Burn-out Outpatient Treatment, Link: https://dl.acm.org//doi/10.1145/3308532.3329460
+Title: Towards Understanding How Virtual Human's Verbal Persuasion Strategies Influence User Intentions To Perform Health Behavior, Link: https://dl.acm.org//doi/10.1145/3472306.3478345
+Title: Coerced Change-talk with Conversational Agents Promotes Confidence in Behavior Change, Link: https://dl.acm.org//doi/10.1145/3329189.3329202
+Title: Effect of Avatar Facial Expressiveness on Team Collaboration in Virtual Reality, Link: https://dl.acm.org//doi/10.1145/3570945.3607330
+Title: INSHA: Intelligent Nudging System for Hand Hygiene Awareness, Link: https://dl.acm.org//doi/10.1145/3472306.3478355
+Title: How to Personalize Conversational Coaches for Stress Management?, Link: https://dl.acm.org//doi/10.1145/3267305.3267698
+Title: Health conversational system based on contextual matching of community-driven question-answer pairs, Link: https://dl.acm.org//doi/10.1145/2063576.2064024
+Title: A Multilingual Neural Coaching Model with Enhanced Long-term Dialogue Structure, Link: https://dl.acm.org//doi/10.1145/3487066
+Title: Supporting longitudinal change in many health behaviors, Link: https://dl.acm.org//doi/10.1145/2559206.2581201
+Title: Fitting the Room: Social Motivations for Context-Aware Agents, Link: https://dl.acm.org//doi/10.1145/3472307.3484185
+Title: A self-learning personalized feedback agent for motivating physical activity, Link: https://dl.acm.org//doi/10.1145/2093698.2093845
+Title: Persuading to Prepare for Quitting Smoking with a Virtual Coach: Using States and User Characteristics to Predict Behavior, Link: https://dl.acm.org//doi/10.5555/3545946.3598704
+Title: Social influence of a persuasive agent: the role of agent embodiment and evaluative feedback, Link: https://dl.acm.org//doi/10.1145/1541948.1542007
+Title: Conversational Interface cooperating with AI and Monitoring Technology adopting Human-in-the-Loop Interaction for Intelligent Behavioral Intervention, Link: https://dl.acm.org//doi/10.1145/3581754.3584115
+Title: Leafy: Enhancing Home Energy Efficiency through Gamified Experience with a Conversational Smart Mirror, Link: https://dl.acm.org//doi/10.1145/3582515.3609526
+Title: TIMELY: Providing In-Time and Intelligent Support for Cardiovascular Rehabilitation with ’Patients and Practitioners in the Loop’ Interaction, Link: https://dl.acm.org//doi/10.1145/3581754.3584158
+Title: The interplay of a conversational ontology and AI planning for health dialogue management, Link: https://dl.acm.org//doi/10.1145/3412841.3441942
+Title: Leveraging driver vehicle and environment interaction: Machine learning using driver monitoring cameras to detect drunk driving, Link: https://dl.acm.org//doi/10.1145/3544548.3580975
+Title: Beyond Self-diagnosis: How a Chatbot-based Symptom Checker Should Respond, Link: https://dl.acm.org//doi/10.1145/3589959
+Title: Adapting Emotional Support in Teams: Emotional Stability and Productivity, Link: https://dl.acm.org//doi/10.1145/3563359.3597385
+Title: Feedpal: Understanding Opportunities for Chatbots in Breastfeeding Education of Women in India, Link: https://dl.acm.org//doi/10.1145/3359272
+Title: Cyberbullying Mitigation by a Proxy Persuasion of a Chat Member Hijacked by a Chatbot, Link: https://dl.acm.org//doi/10.1145/3472307.3484177
+Title: A motivational health companion in the home as part of an intelligent health monitoring sensor network, Link: https://dl.acm.org//doi/10.1145/1877826.1877842
+Title: Authors’ Biographies/Index, Link: https://dl.acm.org//doi/10.1145/3563659.3563678
+Title: “I’m at my wits’ end” - Anticipating Information Needs and Appropriate Support Strategies in Behaviour Change, Link: https://dl.acm.org//doi/10.1145/3498366.3505807
+Title: Natural Language Stage of Change Modelling for “Motivationally-driven” Weight Loss Support, Link: https://dl.acm.org//doi/10.1145/3462244.3481279
+Title: Software-Based Dialogue Systems: Survey, Taxonomy, and Challenges, Link: https://dl.acm.org//doi/10.1145/3527450
+Title: CANDY: a framework to design Conversational AgeNts for Domestic sustainabilitY, Link: https://dl.acm.org//doi/10.1145/3543829.3544515
+Title: WEnner: A Theoretically Motivated Approach for Tailored Coaching about Physical Activity, Link: https://dl.acm.org//doi/10.1145/3267305.3274190
